@@ -1,1 +1,12 @@
 @import '~bootstrap/scss/bootstrap';
+
+#user-message {
+  align-self: flex-start;
+  font-size: 42px;
+  font-style: bold;
+  text-align: center;
+}
+
+.button {
+  text-align: center;
+}
